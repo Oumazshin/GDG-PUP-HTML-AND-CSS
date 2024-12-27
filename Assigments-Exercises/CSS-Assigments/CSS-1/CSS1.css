@@ -1,0 +1,29 @@
+/* CSS1.css */
+
+/* Facebook Logo Text Style */
+.facebook-logo {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  color: #1877f2;
+  letter-spacing: -0.5px;
+}
+
+/* Example usage for headings and paragraphs */
+h1 {
+  font-size: 2em;
+  color: #333;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #555;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+  color: #666;
+  font-style: italic;
+}

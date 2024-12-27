@@ -1,0 +1,14 @@
+/* YouTube Subscribe Button Styling */
+button[type="submit"] {
+  background-color: #ff0000; /* Red background */
+  color: #ffffff; /* White text */
+  padding: 10px 20px; /* Padding */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Rounded corners */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+button[type="submit"]:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
