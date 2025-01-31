@@ -12,18 +12,17 @@
 /* Example usage for headings and paragraphs */
 h1 {
   font-size: 2em;
-  color: #333;
+  font-family: sans-serif;
+  color: #1877f2;
   font-weight: bold;
-}
-
-h2 {
-  font-size: 1.5em;
-  color: #555;
-  font-weight: bold;
+  text-align: center;
 }
 
 p {
   font-size: 1em;
+  font-family: sans-serif;
   color: #666;
   font-style: italic;
+  font-weight: bold;
+  text-align: center;
 }
